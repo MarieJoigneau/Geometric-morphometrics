@@ -3,7 +3,7 @@ Spatial and temporal morphological variation in small benthic Arctic charr using
 
 Project date : september 2021 - january 2022 (5 months)
 
-Authors :  
+Author :  
 - Marie JOIGNEAU marie.joigneau@agrocampus-ouest.fr
 
 Supervisors :  
